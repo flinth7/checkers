@@ -38,7 +38,7 @@
 .brownCircle:hover {
     width: 90%;
     height: 90%;
-    background-color: red;
+    background-color: gray;
 }
 
 .yellowCircle {
